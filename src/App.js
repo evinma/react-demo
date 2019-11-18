@@ -12,6 +12,7 @@ function App() {
         </p>
         <p>
           As myself.
+          As myself.
         </p>
         <a
           className="App-link"
